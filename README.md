@@ -11,13 +11,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Java is better than C++.
 - 📫 React out to me: snehashis.2001@gmail.com
+- 🤝Connect with me on linkedin: <a href="https://www.linkedin.com/in/snehashis-pati-536bb81aa/">Snehashis Pati</a>
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/snehasish-20">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasish-20&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/snehasish-20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehasish-20&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
+
